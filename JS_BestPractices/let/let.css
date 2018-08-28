@@ -1,0 +1,9 @@
+/*any divs under this section*/
+section > div {
+    height: 100px;
+    width: 100px;
+    background: #4099FF;
+    float: left;
+    cursor: pointer;
+    margin: 3px;
+}

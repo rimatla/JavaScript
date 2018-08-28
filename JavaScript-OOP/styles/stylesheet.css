@@ -1,0 +1,15 @@
+#container {
+    margin: 200px auto;
+    text-align: center;
+    width: 800px;
+}
+
+#img2 {
+    position: relative;
+    right: 10px;
+}
+
+#img3 {
+    position: relative;
+    right: 17px;
+}

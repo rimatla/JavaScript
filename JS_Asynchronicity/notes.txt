@@ -1,0 +1,45 @@
+//* I don't Believe in Skill Levels, I just believe in a desire to Learn* - Wes Higbee
+
+
+//Links to assignments
+https://git.io/vKs7A
+From Wes Higbee / Plural Sight
+
+Weather
+http://plnkr.co/edit/ZOAaSdtnfvR6WwiuVZ6s
+
+Avoid Blocking – Red Background
+http://plnkr.co/edit/z29VyH5BPvC4oc40EyOu
+
+setTimeout Pyramid Challenge
+http://plnkr.co/edit/DGiHFQOQfnipCcpex2RH
+
+Drag and Drop Red Box
+http://plnkr.co/edit/SmSpPS5ZgPvkgn8RE6y1
+
+Timer onReady
+http://plnkr.co/edit/gafgKCrxnDIJ6YaG9Jpx
+
+Timer measure
+http://plnkr.co/edit/kPOgzEuIvUmN4o6Jenem
+
+Progress Number Crunching - Web Worker
+https://plnkr.co/edit/Yy7BOZU9sIa8EyrxJwGH
+
+Event Listeners Are Synchronous
+http://plnkr.co/edit/mDvSHpF3HcTjtvltGmQn
+
+****************************************************************************
+JS is a 'single threaded' language - Its engine can only execute one piece of code/task at a time.
+ex: A Bank w/ one teller or a Bar with only one bathroom.
+
+JS Event Loop - Contains a queue for the subsequent code to be executed.
+ex: a line waiting  for the next available bank teller
+
+JS Non-Blocking - Allows for the next code/task to be executed while the previous one may be still processing.
+
+
+***
+Look up:
+Node nextTick and setImmediate
+
