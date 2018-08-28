@@ -1,0 +1,1 @@
+### JavaScript best practices by Jonathan Mills
