@@ -1,0 +1,16 @@
+- Why Functional Programing?
+Less bugs
+Easier ro reason about
+Less time
+Code Re-usability
+
+- Higher Order Functions
+Functions are values, that can be passed into other functions
+Good for composition
+Little programs
+input - output
+
+- Ex:
+Filter is a function that accepts another function as its argument, returning a new FILTERED version on an array
+
+

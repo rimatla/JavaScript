@@ -1,0 +1,8 @@
+- Reduce
+Is the multi tools on list transformation. It can be used to express any list transformation.
+
+Reduce is a very tricky (but powerful!) method.
+The idea is that you want to transform an array into a single object like a string or a number or a boolean.
+Reduce is a higher order function in that it takes a function as its argument, and THAT function takes two arguments:
+Accumulator and Element (thats why I used 'a' as the first argument).
+This is probably all very confusing but I encourage you to read up on reduce bc its like a more powerful map.

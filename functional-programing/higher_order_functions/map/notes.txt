@@ -1,0 +1,9 @@
+Higher Order Functions
+
+-Map
+Goes through the element of an array an transforms them
+Map will take a callback function
+Since 'Map' expects the callback back function to return any object. We can use it to create a completely
+new object.
+
+

@@ -1,0 +1,7 @@
+- Bianca Gandolfo
+- JS Functional Programing
+Understand the layer underneath the framework you're working with.
+
+
+How could this be used to a functional programing design?
+Kyle Simpson Functional Light 

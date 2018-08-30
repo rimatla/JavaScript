@@ -1,0 +1,22 @@
+Closures: Usage
+Used in JavaScript for:
+ -object data privacy,
+ -in event handlers,
+ - callback functions,
+and:
+ -in partial applications,
+ -currying,
+ -and other functional programming patterns.
+
+Closures: Meaning
+Combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment).
+*****A closure gives you access to an OUTER function’s SCOPE from an INNER function.******
+In JavaScript, closures are created every time a function is created, at function creation time.
+
+Closures: Implement
+To use a closure, simply:
+ -define a function inside another function and expose it.
+
+To expose a function:
+ -'return' it or pass it to another function.
+ -The inner function will have access to the variables in the outer function scope, EVEN after the outer function has returned.

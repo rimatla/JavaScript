@@ -1,0 +1,6 @@
+mark jagger	waffle iron	80	2
+mark jagger	blender	100	1
+mark jagger	knife	40	4
+Mikki Mice	waffle iron	80	6
+Mikki Mice	knife	10	2
+Mikki Mice	port	20	3
